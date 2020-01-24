@@ -1,0 +1,5 @@
+package com.cassimiro.comercial.repository;
+
+public interface OportunidadeRepository {
+
+}

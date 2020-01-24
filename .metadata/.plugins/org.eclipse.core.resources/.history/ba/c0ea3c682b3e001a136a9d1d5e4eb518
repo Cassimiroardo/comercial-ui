@@ -1,0 +1,3 @@
+spring.datasource.url=jdbc:mysql://localhost/comercial-ui?createDatabaseIfNotExist=true
+spring.datasource.username=root
+spring.datasource.password=dudu142414

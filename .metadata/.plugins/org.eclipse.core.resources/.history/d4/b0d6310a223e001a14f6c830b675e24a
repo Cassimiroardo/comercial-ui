@@ -1,0 +1,8 @@
+package com.cassimiro.comercial.controller;
+
+public class OportunidadeController {
+
+	public String listar(){
+		return "hello";
+	}	
+}
